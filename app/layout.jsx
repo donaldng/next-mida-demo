@@ -1,6 +1,7 @@
 import '../styles/globals.css';
 import { Footer } from '../components/footer';
 import { Header } from '../components/header';
+import { MidaScript } from 'mida-nextjs';
 
 export const metadata = {
     title: {
