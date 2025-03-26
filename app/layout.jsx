@@ -16,9 +16,9 @@ export default function RootLayout({ children }) {
             <head>
                 <link rel="icon" href="/favicon.svg" sizes="any" />
                 <MidaScript projectKey="oA05VeLkBJEMbREMq3X2Kv" 
-                    useAntiFlicker={true}
+                    // useAntiFlicker={true}
                     isSPA={true}
-                    sync={true}
+                    // sync={true}
                 />
             </head>
             <body className="antialiased text-white bg-blue-900">
